@@ -104,7 +104,8 @@ sup {
   top: -.5em; }
 
 a {
-  color: #352961;
+  /* color: #352961; */
+  color: #3277a8;
   text-decoration: none;
   background-color: transparent; }
   a:hover {
